@@ -1,3 +1,3 @@
 # lingdata
-Klochkova Sofia Igorevna
-Fundamental and Computational Linguistics, БКЛ233
+## БКЛ233
+### Klochkova Sofia Igorevna
